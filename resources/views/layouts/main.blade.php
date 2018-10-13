@@ -1,0 +1,5 @@
+@extends('admin.layouts.partial.footer')
+@extends('admin.layouts.partial.mainpage')
+@extends('admin.layouts.partial.topbar')
+@extends('admin.layouts.partial.leftsidebar')
+@extends('admin.layouts.partial.header')

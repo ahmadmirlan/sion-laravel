@@ -1,0 +1,5 @@
+@extends('dosen.layouts.partial.footer')
+@extends('dosen.layouts.partial.mainpage')
+@extends('dosen.layouts.partial.topbar')
+@extends('dosen.layouts.partial.leftsidebar')
+@extends('dosen.layouts.partial.header')
