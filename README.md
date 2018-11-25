@@ -1,6 +1,6 @@
 # sion-laravel Intro
 
-Sistem Informasi Online - Kampus adalah sebuah web aplikasi yang dibangun menggunakan bahasa PHP yang telah dibalut dengan framewrk laravel. Fungsi dari web aplikasi ini adalah untuk memanajemen data kampus, seperti menangani penambahan mahasiswa, dosen, kelas, matakuliah, dan lainnya.
+Sistem Informasi Online - Kampus adalah sebuah web aplikasi yang dibangun menggunakan bahasa PHP yang telah dibalut dengan framework laravel. Fungsi dari web aplikasi ini adalah untuk memanajemen data kampus, seperti menangani penambahan mahasiswa, dosen, kelas, matakuliah, dan lainnya.
 
 # Cara instal 
 
